@@ -1,7 +1,7 @@
 # A Book A Month
 Adding perspective and getting into that reading habit. One book at a time.
 
-Book pool will hold all the books we have heard about and can want to read/recommend. Either pick a book from the books pool and add it under your name for that month or just select an existing one. 
+Book pool will hold all the books we have heard about and want to read/recommend. Either pick a book from the books pool and add it under your name for that month or just select an existing one. 
 
 If you hear about a good book, add it to the book pool with a short summary.
 

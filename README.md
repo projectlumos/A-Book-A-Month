@@ -16,7 +16,7 @@ Format [## Reader_name [Month YY [list of books]]
 
 ## Juneja
 - August 18
-  - Enter your current book. If not in book pool, add it there as well
+  - Zero to One
 
 ## Nagekar
 - August 18

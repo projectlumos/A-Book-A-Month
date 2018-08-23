@@ -10,6 +10,8 @@ Format [Book_name Author: Short description]
 - **Animal Farm - George Orwell**: A nice satirical account of modern politics explained through simple animals at an animal farm.
 - **Predictably Irrational - Dan Ariely**: We make a lot of irrational mistakes and corporations take advantage of our predictability. Knowing them can make us slightly resistant to such vulnerabilities present in ourselves.
 - **Zero to One - Peter Thiel**: Good startup wisdom, insights from someone who's been there, done that.
+- **Politics and the English Language - Gorge Orwell**: Very short (25 page) book on the degradation of the english language. Recommended if you write.
+- **Brave New World - Aldous Huxley**: Dystopian novel.
 
 # Readers
 Format [## Reader_name [Month YY [list of books]]
@@ -21,3 +23,5 @@ Format [## Reader_name [Month YY [list of books]]
 ## Nagekar
 - August 18
   - Zero to One
+  - Politics and the English Language
+  - Brave New World

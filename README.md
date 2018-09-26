@@ -12,6 +12,7 @@ Format [Book_name Author: Short description]
 - **Zero to One - Peter Thiel**: Good startup wisdom, insights from someone who's been there, done that.
 - **Politics and the English Language - Gorge Orwell**: Very short (25 page) book on the degradation of the english language. Recommended if you write.
 - **Brave New World - Aldous Huxley**: Dystopian novel.
+- **Wings of fire - APJ Abdul Kalal**: Inspiring biography
 
 # Readers
 Format [## Reader_name [Month YY [list of books]]
@@ -25,3 +26,5 @@ Format [## Reader_name [Month YY [list of books]]
   - Zero to One
   - Politics and the English Language
   - Brave New World
+- September 18
+  - Wings of fire

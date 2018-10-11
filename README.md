@@ -13,6 +13,7 @@ Format [Book_name Author: Short description]
 - **Politics and the English Language - Gorge Orwell**: Very short (25 page) book on the degradation of the english language. Recommended if you write.
 - **Brave New World - Aldous Huxley**: Dystopian novel.
 - **Wings of fire - APJ Abdul Kalal**: Inspiring biography
+- **The Pragmatic Programmer - Andy Hunt and Dave Thomas**: Quality experiences and wisdom about software engineering. 
 
 # Readers
 Format [## Reader_name [Month YY [list of books]]
@@ -28,3 +29,5 @@ Format [## Reader_name [Month YY [list of books]]
   - Brave New World
 - September 18
   - Wings of fire
+- October 18
+  - The Pragmatic Programmer

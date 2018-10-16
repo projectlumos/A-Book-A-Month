@@ -14,6 +14,7 @@ Format [Book_name Author: Short description]
 - **Brave New World - Aldous Huxley**: Dystopian novel.
 - **Wings of fire - APJ Abdul Kalal**: Inspiring biography
 - **The Pragmatic Programmer - Andy Hunt and Dave Thomas**: Quality experiences and wisdom about software engineering. 
+- **Design of Everyday Things - Don Norman**: a general book for people who design anything for human consumption.
 
 # Readers
 Format [## Reader_name [Month YY [list of books]]
@@ -31,3 +32,4 @@ Format [## Reader_name [Month YY [list of books]]
   - Wings of fire
 - October 18
   - The Pragmatic Programmer
+  - Design of everyday things
